@@ -4,3 +4,4 @@ git branch [name] --creates a branch named name
 
 git checkout branch-name   --to switch to other branch
 
+git merge <branch name> -- merges brnaches
